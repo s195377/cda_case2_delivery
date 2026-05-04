@@ -1,0 +1,17 @@
+name: cda_case_2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - ipykernel
+  - tabulate
+  - lightgbm
+  - pypdf

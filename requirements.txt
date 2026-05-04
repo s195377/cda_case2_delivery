@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+seaborn
+jupyter
+ipykernel
+tabulate
+lightgbm
+pypdf
+statsmodels>=0.14.0
